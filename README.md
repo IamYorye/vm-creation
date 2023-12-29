@@ -64,7 +64,7 @@ Onto the next section of crating our virtual machine. We need to create a userna
 
 We can skip the disks section and go straight to the networking section.
 
-Here we'll only really do one thing and that's either select a different virtual network than the one being created or change our selected inbound ports from RDP to SSH.
+Here we'll only really do one thing and that's either select a different virtual network than the one being created.
 
 <p align="center">
 <img src="https://i.imgur.com/w6F1Ae0.png" height="70%" width="70%" alt="network"/> </p
@@ -93,12 +93,29 @@ Now it's time for us to connect to our virtual machine by first grabbing the pub
 On the bottom left opf your desktop click the microsoft logo, which is the start menu and type in remote desktop connection.
 
 <p align="center">
-<img src="https://i.imgur.com/QdlHXq1.png" height="70%" width="70%" alt="remote desktop"/> </p
+<img src="https://i.imgur.com/QdlHXq1.png" height="70%" width="70%" alt="micro"/> </p
 
-Take that Public IP Address you have previously copied from your virtual machine and paste it into the computer section of remote desktop connection.
+Take that Public IP Address you have previously copied from your virtual machine and paste it into the computer section of remote desktop connection and press connect.
 
 <p align="center">
-<img src="https://i.imgur.com/QdlHXq1.png" height="70%" width="70%" alt="remote desktop"/> </p
+<img src="https://i.imgur.com/sxZVtkP.png" height="70%" width="70%" alt="copy paste"/> </p
+
+You're now naviagted towards a new pop up to enter you credentials. Remember that username and password we create while creating our virtual machine, it's time to put that to use and fill out that information here to connect to our virtual machine.
+
+<p align="center">
+<img src="https://i.imgur.com/JIyCGZH.png" height="70%" width="70%" alt="creds"/> </p
+
+Don't worry about thisnext pop up, just click yes.
+
+<p align="center">
+<img src="https://i.imgur.com/JIyCGZH.png" height="70%" width="70%" alt="yes"/> </p
+
+
+
+
+
+
+
 
 
 
