@@ -108,7 +108,7 @@ You're now naviagted towards a new pop up to enter you credentials. Remember tha
 Don't worry about thisnext pop up, just click yes.
 
 <p align="center">
-<img src="https://i.imgur.com/JIyCGZH.png" height="70%" width="70%" alt="yes"/> </p
+<img src="https://i.imgur.com/miXD7CW.png" height="70%" width="70%" alt="yes"/> </p
 
 
 
