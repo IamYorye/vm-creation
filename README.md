@@ -35,6 +35,26 @@ Next we'll use azure's search bar to search for virtual machines, under the serv
 <p align="center">
 <img src="https://i.imgur.com/Jf6PsPH.png" height="70%" width="70%" alt="search"/> </p>
 
+Now we'll click on the create button and be sure to create an azure virtual machine (first on the list).
+
+<p align="center">
+<img src="https://i.imgur.com/A6FV5tv.png" height="70%" width="70%" alt="creation"/> </p>
+
+Now we're on the virtual machine creation page where it may seem like a lot but really some sections get automatically filled out and it's up for the user (you) to decide on what subscription you may want to link this virtual machine to. If you have a new account it will be one subscription. If you haven't created a resource group, one will be automatically created and the virtual machine will be put into that resource group. Create a name for the virtual machine (you can call it whatever you want). Next select any server region you may want, depending on what you want to do you can select any server. Lastly, select the image, would you want to be on windows, ubuntu, etc.
+
+<p align="center">
+<img src="https://i.imgur.com/PHr3Kov.png" height="70%" width="70%" alt="vm main page"/> </p>
+
+<p align="center">
+<img src="https://i.imgur.com/uvJA9NS.png" height="70%" width="70%" alt="sub and resource group"/> </p>
+
+<p align="center">
+<img src="https://i.imgur.com/k28SNwV.png" height="70%" width="70%" alt="instance details"/> </p>
+
+<p align="center">
+<img src="https://i.imgur.com/ZwPgHu1.png" height="70%" width="70%" alt="image"/> </p>
+
+
 
 
 
