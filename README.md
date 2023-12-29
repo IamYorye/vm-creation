@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/OI988z4.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/OI988z4.png" alt="VM LOGO"/>
 </p>
 
 <h1> Azure - Virtual Machine Creation</h1>
@@ -25,7 +25,21 @@ This tutorial outlines how to create a virtual machine on Azure and remote deskt
 Head over to your local web browser and search for portal.azure.com.
 
 <p align="center">
-<img src="https://i.imgur.com/plMdnMb.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/plMdnMb.png" alt="Portal Azure"/>
 </p>
+
+>**Note**: Notice our resources, we currently have a subscription called azure subscription 1. Be sure to have a subscription before continuing onwards.
+
+Next we'll use azure's search bar to search for virtual machines, under the services tab and click on virtual machines to be navigated to the next section.
+
+<p align="center">
+<img src="https://i.imgur.com/Jf6PsPH.png" height="70%" width="70%" alt="search"/> </p>
+
+
+
+
+
+
+
 
 
