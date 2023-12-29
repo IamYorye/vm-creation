@@ -77,6 +77,31 @@ Now we'll finally create our virtual machine by clicking the create button on th
 <p align="center">
 <img src="https://i.imgur.com/nWeFzOO.png" height="70%" width="70%" alt="create"/> </p
 
+We have our virtual machine created now! Navigate back to your virtual machines and now you should see the new virtual machine you created.
+
+<p align="center">
+<img src="https://i.imgur.com/6TpQ5nq.png" height="70%" width="70%" alt="new vm"/> </p
+
+Now it's time for us to connect to our virtual machine by first grabbing the public IP address. Cick on your VM and make sure to copy the public ip address for remote desktop connection.
+
+<p align="center">
+<img src="https://i.imgur.com/Ad3aQyP.png" height="70%" width="70%" alt="IP"/> </p
+
+<p align="center">
+<img src="https://i.imgur.com/b4LelId.png" height="70%" width="70%" alt="copy of IP"/> </p
+
+On the bottom left opf your desktop click the microsoft logo, which is the start menu and type in remote desktop connection.
+
+<p align="center">
+<img src="https://i.imgur.com/QdlHXq1.png" height="70%" width="70%" alt="remote desktop"/> </p
+
+Take that Public IP Address you have previously copied from your virtual machine and paste it into the computer section of remote desktop connection.
+
+<p align="center">
+<img src="https://i.imgur.com/QdlHXq1.png" height="70%" width="70%" alt="remote desktop"/> </p
+
+
+
 
 
 
