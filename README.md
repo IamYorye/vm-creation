@@ -110,8 +110,15 @@ Don't worry about thisnext pop up, just click yes.
 <p align="center">
 <img src="https://i.imgur.com/miXD7CW.png" height="70%" width="70%" alt="yes"/> </p
 
+Now we are in our virtual machine and feel free to select no for every option when the services tab opens up, click accept afterwards.
 
+<p align="center">
+<img src="https://i.imgur.com/vwyIHji.png" height="70%" width="70%" alt="privacy settings"/> </p
 
+Welcome! To your new virtual machine where you can do whatever you may please!
+
+<p align="center">
+<img src="https://i.imgur.com/Ln4jX7K.png" height="70%" width="70%" alt="our new vm"/> </p
 
 
 
