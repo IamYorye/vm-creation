@@ -52,7 +52,13 @@ Now we're on the virtual machine creation page where it may seem like a lot but 
 <img src="https://i.imgur.com/k28SNwV.png" height="70%" width="70%" alt="instance details"/> </p>
 
 <p align="center">
-<img src="https://i.imgur.com/ZwPgHu1.png" height="70%" width="70%" alt="image"/> </p>
+<img src="https://i.imgur.com/ZwPgHu1.png" height="70%" width="70%" alt="image"/> </p
+
+Onto the next section of crating our virtual machine. We need to create a username and password we'll be using later with Remote Desktop Connection to connect into this virtual machine. Feel free to create any username and password, but make sure to note it for later. Scroll down to the bottom, check mark the licensing tab and we can move onto the the disks section.
+
+<p align="center">
+<img src="https://i.imgur.com/6ID9Y16.png" height="70%" width="70%" alt="image"/> </p
+                                                                                  
 
 
 
